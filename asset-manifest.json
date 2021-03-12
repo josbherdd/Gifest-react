@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gifest-react/static/css/main.190c7245.chunk.css",
+    "main.js": "/Gifest-react/static/js/main.63b428ce.chunk.js",
+    "main.js.map": "/Gifest-react/static/js/main.63b428ce.chunk.js.map",
+    "runtime-main.js": "/Gifest-react/static/js/runtime-main.34f2d654.js",
+    "runtime-main.js.map": "/Gifest-react/static/js/runtime-main.34f2d654.js.map",
+    "static/js/2.8c54f172.chunk.js": "/Gifest-react/static/js/2.8c54f172.chunk.js",
+    "static/js/2.8c54f172.chunk.js.map": "/Gifest-react/static/js/2.8c54f172.chunk.js.map",
+    "index.html": "/Gifest-react/index.html",
+    "static/css/main.190c7245.chunk.css.map": "/Gifest-react/static/css/main.190c7245.chunk.css.map",
+    "static/js/2.8c54f172.chunk.js.LICENSE.txt": "/Gifest-react/static/js/2.8c54f172.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34f2d654.js",
+    "static/js/2.8c54f172.chunk.js",
+    "static/css/main.190c7245.chunk.css",
+    "static/js/main.63b428ce.chunk.js"
+  ]
+}
